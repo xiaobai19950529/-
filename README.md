@@ -19,3 +19,7 @@
   4. 查看版本号
   
      node --version
+
+二.安装mongodb
+
+  https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/ 
