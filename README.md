@@ -7,6 +7,9 @@
      sudo git clone https://github.com/nodejs/node.git
      
      现在此方法不行
+     cd node 
+     sudo make uninstall
+     
      可以直接去nodejs官网下载最新版本的nodejs
      然后在~/.bashrc里添加PATH
      
