@@ -52,6 +52,9 @@
   服务端： redis-server -v
   客户端： redis-cli -v
   
+四.安装JDK
+
+  http://topspeedsnail.com/ubuntu16-install-java-jdk/
+  
+  
  
-  
-  
