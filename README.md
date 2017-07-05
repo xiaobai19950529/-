@@ -6,6 +6,22 @@
   
      sudo git clone https://github.com/nodejs/node.git
      
+     现在此方法不行
+     可以直接去nodejs官网下载最新版本的nodejs
+     然后在~/.bashrc里添加PATH
+     
+     sudo nano ~/.bashrc
+     
+     export PATH=$PATH:/home/xiaobai/Downloads/node-v6.11.0-linux-x64/bin
+
+     source ~/.bashrc
+     
+     node -v 有版本号代表安装成功
+     
+     注意： bashrc 一劳永逸
+          bash_profile 只在当前终端有效
+     
+     
   2. 修改目录权限
   
      sudo chmod -R 755 node
