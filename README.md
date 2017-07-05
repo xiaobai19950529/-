@@ -41,11 +41,11 @@
 
 二.安装mongodb
 
-    https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/ 
+      https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/ 
 
 三，安装Redis
 
-    https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
+      https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
   
     检测Redis是否安装成功（查看版本号）:
 
@@ -54,11 +54,11 @@
   
 四.安装JDK
 
-    http://topspeedsnail.com/ubuntu16-install-java-jdk/
+      http://topspeedsnail.com/ubuntu16-install-java-jdk/
   
 五.安装bower
   
-    需先安装nodejs和npm
+     需先安装nodejs和npm
   
      sudo apt-get install nodejs npm git
 
@@ -71,28 +71,28 @@
    
 六.安装chrome浏览器
 
-   在终端中，输入以下命令：
+     在终端中，输入以下命令：
 
-        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub  | sudo apt-key add -
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub  | sudo apt-key add -
 
-    导入谷歌软件的公钥，用于下面步骤中对下载软件进行验证。
+      导入谷歌软件的公钥，用于下面步骤中对下载软件进行验证。
 
-    如果顺利的话，命令将返回“OK”
+      如果顺利的话，命令将返回“OK”
 
-    sudo apt-get update
+      sudo apt-get update
 
-    用于对当前系统的可用更新列表进行更新。
+      用于对当前系统的可用更新列表进行更新。
 
-    在终端中，输入以下命令：
+      在终端中，输入以下命令：
 
-            sudo apt-get install google-chrome-stable
+              sudo apt-get install google-chrome-stable
 
-    执行对谷歌 Chrome 浏览器（稳定版）的安装。
+      执行对谷歌 Chrome 浏览器（稳定版）的安装。
 
 
-    在终端中执行以下命令：
+      在终端中执行以下命令：
 
-    google-chrome-stable
+      google-chrome-stable
 
-    将会启动谷歌 Chrome 浏览器，它的图标将会出现在屏幕左侧,右键图标锁定到启动器即可。
+      将会启动谷歌 Chrome 浏览器，它的图标将会出现在屏幕左侧,右键图标锁定到启动器即可。
 
