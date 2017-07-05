@@ -55,7 +55,10 @@
 四.安装JDK
 
       http://topspeedsnail.com/ubuntu16-install-java-jdk/
-  
+       
+      JAVA_HOME需要改
+      export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+  
 五.安装bower
   
        需先安装nodejs和npm
@@ -95,4 +98,8 @@
       google-chrome-stable
 
       将会启动谷歌 Chrome 浏览器，它的图标将会出现在屏幕左侧,右键图标锁定到启动器即可。
+      
+  七.安装gradle (须先安装JDK)
+  
+      https://gradle.org/install/
 
